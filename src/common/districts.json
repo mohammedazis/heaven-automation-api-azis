@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Ariyalur",
+        "id": "ariyalur"
+    },
+    {
+        "name": "Chengalpattu",
+        "id": "chengalpattu"
+    },
+    {
+        "name": "Chennai",
+        "id": "chennai"
+    },
+    {
+        "name": "Kumbakonam",
+        "id": "kumbakonam"
+    },
+    {
+        "name": "Coimbatore",
+        "id": "coimbatore"
+    },
+    {
+        "name": "Cuddalore",
+        "id": "cuddalore"
+    },
+    {
+        "name": "Dharmapuri",
+        "id": "dharmapuri"
+    },
+    {
+        "name": "Dindigul",
+        "id": "dindigul"
+    },
+    {
+        "name": "Erode",
+        "id": "erode"
+    },
+    {
+        "name": "Kallakurichi",
+        "id": "kallakurichi"
+    },
+    {
+        "name": "Kancheepuram",
+        "id": "kancheepuram"
+    },
+    {
+        "name": "Kanyakumari",
+        "id": "kanyakumari"
+    },
+    {
+        "name": "Karur",
+        "id": "karur"
+    },
+    {
+        "name": "Krishnagiri",
+        "id": "krishnagiri"
+    },
+    {
+        "name": "Madurai",
+        "id": "madurai"
+    },
+    {
+        "name": "Mayiladuthurai",
+        "id": "mayiladuthurai"
+    },
+    {
+        "name": "Nagapattinam",
+        "id": "nagapattinam"
+    },
+    {
+        "name": "Namakkal",
+        "id": "namakkal"
+    },
+    {
+        "name": "Nilgiris",
+        "id": "nilgiris"
+    },
+    {
+        "name": "Perambalur",
+        "id": "perambalur"
+    },
+    {
+        "name": "Pudukkottai",
+        "id": "pudukkottai"
+    },
+    {
+        "name": "Ramanathapuram",
+        "id": "ramanathapuram"
+    },
+    {
+        "name": "Ranipet",
+        "id": "ranipet"
+    },
+    {
+        "name": "Salem",
+        "id": "salem"
+    },
+    {
+        "name": "Sivaganga",
+        "id": "sivaganga"
+    },
+    {
+        "name": "Tenkasi",
+        "id": "tenkasi"
+    },
+    {
+        "name": "Thanjavur",
+        "id": "thanjavur"
+    },
+    {
+        "name": "Theni",
+        "id": "theni"
+    },
+    {
+        "name": "Thoothukudi",
+        "id": "thoothukudi"
+    },
+    {
+        "name": "Tiruchirappalli",
+        "id": "tiruchirappalli"
+    },
+    {
+        "name": "Tirunelveli",
+        "id": "tirunelveli"
+    },
+    {
+        "name": "Tirupathur",
+        "id": "tirupathur"
+    },
+    {
+        "name": "Tiruppur",
+        "id": "tiruppur"
+    },
+    {
+        "name": "Tiruvallur",
+        "id": "tiruvallur"
+    },
+    {
+        "name": "Tiruvannamalai",
+        "id": "tiruvannamalai"
+    },
+    {
+        "name": "Tiruvarur",
+        "id": "tiruvarur"
+    },
+    {
+        "name": "Vellore",
+        "id": "vellore"
+    },
+    {
+        "name": "Viluppuram",
+        "id": "viluppuram"
+    },
+    {
+        "name": "Virudhunagar",
+        "id": "virudhunagar"
+    }
+]
